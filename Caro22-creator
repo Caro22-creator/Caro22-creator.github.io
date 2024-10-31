@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Derivado de "Proyecto: página web de viajes" 2</title>
+        <style> 
+            body {background-color:rgb(250, 10, 102);}
+            h1 { color:green;}
+            
+            
+            
+            
+        </style>
+    </head>
+    <body>
+    
+    
+        <h1>Travel to Paris</h1>
+          <img src="https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/space/beetleship.png">
+    </body>
+    <h1>Travel to Paris</h1>
+    <h2 id="Activities">What can you do in Paris?</h2>
+
+    <ol> 
+    <li> Visit the Eiffel Tower.
+    <li> See art at The Louvre Museum.
+    <li> Play at Disneyland
+    <li> Try restaurants.
+    <li> Go to Palace of Versailles.
+    </ol>
+    <h3> There are a lot of fun activities to do in Paris, don´t miss the opportunity to spend time with your family, friends or lovers. It is a romantic city with a very pretty view. You can buy tours to explore the whole city, know traditions and get familiar with all places!</h3>
+    <img src="https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/cute/DoorTallClosed.png">
+        <h4> Some interesting things about the city is that it´s really fashion speaking about fashion, art, in gastronomy and culture.</h4>
+        <h5>  <em> Rules of the city </em>
+        <ol>
+        <li> Be polite.
+        <li> Keep you voice down.
+        <li> Arrive on time.
+        <li> Say thank you.
+        <li> Don't eat on the go.
+        <li> Serve visits first. </li>
+    <img src="https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/avatars/mr-pants-with-hat.png" width="120" height="150">
+        </ol>
+        </h5>
+</html>
